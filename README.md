@@ -16,27 +16,27 @@ players and hosts know how inconvenient the process of manual scheduling is:
 
 command syntax
 
-![example command: reschedule](https://media.discordapp.net/attachments/607651714392260619/1149507588711526431/image.png)
+![example command: reschedule](https://imgur.com/Nqd3qu3)
 
 spreadsheet (before)
 
-![reschedule before spreadsheet](https://media.discordapp.net/attachments/607651714392260619/1149515076664033352/image.png)
+![reschedule before spreadsheet](https://imgur.com/TJ4h7VS)
 
 sending the reschedule request (dates in brackets are shown to the user in their local time)
 
-![example command usage: reschedule](https://media.discordapp.net/attachments/607651714392260619/1149506974132748360/image.png)
+![example command usage: reschedule](https://imgur.com/j49tXb8)
 
 accepting the reschedule request (they sent a new request for a different time)
 
-![example command usage: reschedule accept](https://cdn.discordapp.com/attachments/607651714392260619/1149888523105742888/image.png)
+![example command usage: reschedule accept](https://imgur.com/DtbZehs)
 
 spreadsheet (after)
 
-![reschedule after spreadsheet](https://cdn.discordapp.com/attachments/607651714392260619/1149895105331863572/image.png)
+![reschedule after spreadsheet](https://imgur.com/SdVFX8I)
 
 if there is a ref for the match, they are pinged as well
 
-![reschedule accept ref ping](https://cdn.discordapp.com/attachments/607651714392260619/1149897681657921586/image.png)
+![reschedule accept ref ping](https://imgur.com/FfKIabd)
 
 ---
 
@@ -44,15 +44,15 @@ if there is a ref for the match, they are pinged as well
 
 command syntax
 
-![example command: qualifier](https://media.discordapp.net/attachments/607651714392260619/1149512390912770158/image.png)
+![example command: qualifier](https://imgur.com/P3qD8jy)
 
 sending the command
 
-![example command usage: qualifier](https://media.discordapp.net/attachments/607651714392260619/1149512227842441226/image.png)
+![example command usage: qualifier](https://imgur.com/mXRpjPS)
 
 result on spreadsheet (the second team later rescheduled to a different lobby)
 
-![spreadsheet result for qualifier](https://media.discordapp.net/attachments/607651714392260619/1149514181364699166/image.png)
+![spreadsheet result for qualifier](https://imgur.com/IB9fIPW)
 
 ---
 
