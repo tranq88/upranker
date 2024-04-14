@@ -16,27 +16,27 @@ players and hosts know how inconvenient the process of manual scheduling is:
 
 command syntax
 
-![example command: reschedule](https://imgur.com/Nqd3qu3)
+![example command: reschedule](https://imgur.com/Nqd3qu3.png)
 
 spreadsheet (before)
 
-![reschedule before spreadsheet](https://imgur.com/TJ4h7VS)
+![reschedule before spreadsheet](https://imgur.com/TJ4h7VS.png)
 
 sending the reschedule request (dates in brackets are shown to the user in their local time)
 
-![example command usage: reschedule](https://imgur.com/j49tXb8)
+![example command usage: reschedule](https://imgur.com/j49tXb8.png)
 
 accepting the reschedule request (they sent a new request for a different time)
 
-![example command usage: reschedule accept](https://imgur.com/DtbZehs)
+![example command usage: reschedule accept](https://imgur.com/DtbZehs.png)
 
 spreadsheet (after)
 
-![reschedule after spreadsheet](https://imgur.com/SdVFX8I)
+![reschedule after spreadsheet](https://imgur.com/SdVFX8I.png)
 
 if there is a ref for the match, they are pinged as well
 
-![reschedule accept ref ping](https://imgur.com/FfKIabd)
+![reschedule accept ref ping](https://imgur.com/FfKIabd.png)
 
 ---
 
@@ -44,15 +44,15 @@ if there is a ref for the match, they are pinged as well
 
 command syntax
 
-![example command: qualifier](https://imgur.com/P3qD8jy)
+![example command: qualifier](https://imgur.com/P3qD8jy.png)
 
 sending the command
 
-![example command usage: qualifier](https://imgur.com/mXRpjPS)
+![example command usage: qualifier](https://imgur.com/mXRpjPS.png)
 
 result on spreadsheet (the second team later rescheduled to a different lobby)
 
-![spreadsheet result for qualifier](https://imgur.com/IB9fIPW)
+![spreadsheet result for qualifier](https://imgur.com/IB9fIPW.png)
 
 ---
 
